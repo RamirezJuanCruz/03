@@ -1,0 +1,53 @@
+body {
+    background-color: pink;
+
+}
+
+h1 {
+    font-size: 36px;
+    color: whitesmoke;
+}
+
+h2 {
+    font-size: 36px;
+    color: whitesmoke;
+}
+
+p {
+    font-size: 36px;
+    color: whitesmoke;
+}
+
+.encabezado {
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 250% 
+}
+
+.subtítulo {
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 42px;
+}
+
+.parrafo {
+    text-align: justify;
+    text-transform: capitalize;
+    font-size: 24px;
+}
+
+#fondo {
+    background-color: rebeccapurple;
+}
+p a {
+    color: pink;
+    text-decoration: darkgreen;
+    }
+
+    p { font-size: xx-large }
+
+    .italic {
+        font-style: italic;
+      }
